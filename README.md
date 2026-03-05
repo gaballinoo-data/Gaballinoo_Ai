@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/-mohamedhamdy.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mohamedhamdy.me)](https://mohamedhamdy.me)
 [![Twitter Badge](https://img.shields.io/badge/-@MohamedHamdy-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MohamedHamdy)](https://twitter.com/MohamedHamdy)
 [![Instagram Badge](https://img.shields.io/badge/-@MohamedHamdy-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/MohamedHamdy/)](https://instagram.com/MohamedHamdy)
-[![Gmail Badge](https://img.shields.io/badge/-mohamedhamdy813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohamedhamdy813@gmail.com)](mailto:mohamedhamdy813@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mohamedhamdy813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gaballinoo@gmail.com)](mailto:gaballino@gmail.com)
 
 Welcome to my profile! I'm Mohamed Hamdy — AI enthusiast, n8n automations lover, part-time coder and full-time adventure seeker. I focus on building **AI Driven Solutions**, managing projects, and ICT implementations. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mohamed-hamdy/)!
 
